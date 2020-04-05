@@ -1,0 +1,4 @@
+dataset/*.txt
+dataset/*.npy
+dataset/*.pkl
+__pycache__
